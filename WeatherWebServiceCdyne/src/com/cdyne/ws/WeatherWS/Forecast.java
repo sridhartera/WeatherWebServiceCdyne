@@ -21,6 +21,7 @@ public class Forecast  implements java.io.Serializable {
     public Forecast() {
     }
     
+    
     public Forecast(
            java.util.Calendar date,
            short weatherID,
