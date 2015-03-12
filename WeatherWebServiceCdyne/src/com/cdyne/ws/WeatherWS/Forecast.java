@@ -35,7 +35,7 @@ public class Forecast  implements java.io.Serializable {
            this.probabilityOfPrecipiation = probabilityOfPrecipiation;
     }
 
-
+//test
     /**
      * Gets the date value for this Forecast.
      * 
